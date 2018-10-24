@@ -32,7 +32,7 @@ This process is completed by JIT (Just-in-time Compilation):
 
 - Applications consist of building blocks called "classes".
 
-- What is a class? A class is a container that holds data and methods (a class function). For example:
+- What is a class? A class is a container that holds data(attributes) and methods (functions). For example:
 
   - Think of a `Car` class. The data would be the `Make`, `Model`, and the `Color`. While the methods would look something like `Start()` or `Move()`.
 
